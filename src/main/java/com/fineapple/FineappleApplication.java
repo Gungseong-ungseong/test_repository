@@ -13,7 +13,8 @@ public class FineappleApplication {
         //윤승현
         //한국진
         //임한규
-        //한국진. ㅎㅇㅎㅇ
+        //한국진. ㅎㅇㅎd
+        //test
 
     }
 
