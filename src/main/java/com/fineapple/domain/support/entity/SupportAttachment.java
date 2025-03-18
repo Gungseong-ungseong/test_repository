@@ -14,7 +14,7 @@ public class SupportAttachment {
     private String fileName;
     private Integer fileSize;
     private LocalDateTime createdAt;
-    private Long inquiryId; //12322
+    private Long inquiryId; //12322ㅇ
 
     @Builder
     public SupportAttachment(Long attachmentId, String fileUrl, String fileName, Integer fileSize, LocalDateTime createdAt, Long inquiryId) {
