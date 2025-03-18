@@ -124,7 +124,7 @@
                     </dependency>
                 </dependencies>
                 <configuration>
-                    <url>jdbc:mysql://localhost:3306/fineapple?serverTimezone=Asia/Seoul</url>
+                    <url>jdbc:mysql://localhost:3307/fineapple?serverTimezone=Asia/Seoul</url>
                     <user>root</user>
                     <password>1234</password>
                 </configuration>

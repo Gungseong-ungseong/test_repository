@@ -1,0 +1,11 @@
+<resultMap id="userResultMap" type="User">
+    <id column="user_id"   property="userId"/>
+    <result column ="name" property="name"/>
+    <result column="email" property="emial"/>
+</resultMap>
+
+
+<select id="selectUserById" resultMap ="userResultMap">
+    SELECT * FROM Users WHERE userId = #{user_id}
+</select>
+

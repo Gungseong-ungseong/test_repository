@@ -33,4 +33,5 @@ build/
 .vscode/
 
 # Docker 관련
-
+docker-compose.yml
+db/migration
