@@ -12,6 +12,7 @@ public class FineappleApplication {
         SpringApplication.run(FineappleApplication.class, args);
         //윤승현
         //한국진
+        //임한규
     }
 
 }
